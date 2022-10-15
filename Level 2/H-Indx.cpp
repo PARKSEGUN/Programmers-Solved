@@ -1,4 +1,4 @@
-문제를 제대로 이해하지 못해서 찝찝하게 
+문제를 제대로 이해하지 못해서 찝찝하게 해결함
 
 #include <string>
 #include <vector>
